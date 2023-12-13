@@ -9,7 +9,7 @@ let color2 = "pink";
 // 5. Create a variable named `emotion` and set the value to a string that says whatever emotion you want.
 let emotion = "sad";
 // 6. Create a variable named `character` and set the value to a string that says whatever name for a character you want.
-let chacter = "gilbert";
+let character = "gilbert";
 // 7. Create a variable named `number` and set the value to a number greater than 1.
 let number = 7;
 // 8. Create a variable named `item` and set the value to a string that says whatever item/thing you want.
@@ -19,7 +19,7 @@ let item2 = "cake";
 // 10. Create a variable named `verb` and set the value to a string that says whatever verb you want.
 let verb = "run";
 // 11. Create a variable named `adverb` and set the value to a string that says whatever adverb you want.
-let adberb = "quickly"
+let adverb = "quickly"
 // 12. Create a variable named `number2` and set the value to a number greater than 1.
 let number2 = 9;
 
